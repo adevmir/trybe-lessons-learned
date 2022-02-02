@@ -12,6 +12,7 @@
 #minha_foto {
     width: 200px;
     height: 200px;
+    float: inline;
 }
 .section_list {
     float: left;
