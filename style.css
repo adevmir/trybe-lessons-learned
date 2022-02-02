@@ -1,6 +1,9 @@
 #body {
     padding-top: 90px;
     background-color: rgb(253, 251, 251);
+    margin: 5%;
+    padding: 5%;
+    border: 5%;
 }
 #cabecalho {
     position: fixed;
@@ -18,9 +21,10 @@
     float: left;
 }
 .div1 {
-    width: 70%;
+    width: 100%;
 }
 .section_list {
+    width: 50%;
     float: left;
 }
 #licoes_aprendidas {
