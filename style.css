@@ -13,8 +13,12 @@
     width: 200px;
     height: 200px;
 }
+#main_content {
+    width: 75%;
+    float: left;
+}
 .div1 {
-    width: 100%;
+    width: 70%;
 }
 .section_list {
     float: left;
@@ -24,4 +28,8 @@
 }
 #licoes_a_aprender {
    
+}
+#aside {
+    width: 20%;
+    float: right;
 }
