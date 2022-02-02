@@ -12,7 +12,9 @@
 #minha_foto {
     width: 200px;
     height: 200px;
-    float: inline;
+}
+.div1 {
+    width: 100%;
 }
 .section_list {
     float: left;
