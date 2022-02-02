@@ -23,7 +23,7 @@
     height: 200px;
 }
 #main_content {
-    width: 75%;
+    width: 100%;
     float: left;
 }
 .div1 {
@@ -42,6 +42,10 @@
 #aside {
     width: 35%;
     float: right;
+}
+#article {
+    width: 60%;
+    float: left;
 }
 #tab {
     width: 100%;
