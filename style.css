@@ -40,11 +40,11 @@
    
 }
 #aside {
-    width: 35%;
+    width: 50%;
     float: right;
 }
 #article {
-    width: 60%;
+    width: 45%;
     float: left;
 }
 #tab {
