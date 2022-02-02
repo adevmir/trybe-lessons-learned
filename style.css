@@ -4,6 +4,11 @@
     margin: 5%;
     padding: 5%;
     border: 5%;
+    font-size: 16px;
+    color: rgb(21, 21, 24);
+    line-height: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 #cabecalho {
     position: fixed;
