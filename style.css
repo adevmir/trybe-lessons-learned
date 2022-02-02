@@ -1,7 +1,15 @@
 #body {
+    padding-top: 90px;
     background-color: rgb(253, 251, 251);
 }
 #cabecalho {
     position: fixed;
     top: 0;
+    width: 100%;
+    height: 90px;
+    margin: 0;
+}
+#minha_foto {
+    width: 200px;
+    height: 200px;
 }
