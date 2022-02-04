@@ -39,11 +39,11 @@
 #licoes_a_aprender {
    
 }
-#aside {
+.lado-direito {
     width: 50%;
     float: right;
 }
-#article {
+.lado-esquerdo {
     width: 45%;
     float: left;
 }
